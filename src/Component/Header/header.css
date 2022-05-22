@@ -1,0 +1,9 @@
+.top{
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+}
+.top img{
+    width: 100px;
+    padding-right: 4rem;
+}
